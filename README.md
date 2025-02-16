@@ -39,7 +39,7 @@ This project renders a list of **posts** using React, implements **pagination**,
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/ansharma-as/cavius-Technologies.git
+   git clone https://github.com/ansharma-as/Cavius-Technologies.git
    cd frontend
    ```
 
@@ -74,11 +74,11 @@ This project renders a list of **posts** using React, implements **pagination**,
 ---
 
 ## 📸 Screenshots
-### ✅ Posts List with Pagination
-![Todos List](https://via.placeholder.com/800x400)
+###home route
+<img width="1458" alt="Screenshot 2025-02-16 at 7 54 17 PM" src="https://github.com/user-attachments/assets/7042cbf4-88ed-4119-a7f6-9035c4510152" />
+###post:id route
+<img width="1419" alt="Screenshot 2025-02-16 at 7 54 29 PM" src="https://github.com/user-attachments/assets/0d3d50e2-88d0-4620-92cd-edfbffc493f3" />
 
-### 🔄 Skeleton Loader (Before Data Loads)
-![Skeleton Loader](https://via.placeholder.com/800x400)
 
 ---
 ## 📜 License
