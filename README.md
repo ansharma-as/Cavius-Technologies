@@ -58,11 +58,11 @@ This project renders a list of **posts** using React, implements **pagination**,
 ## 🎯 How It Works
 
 1. **Fetching Data**
-   - The app fetches todos from `[https://jsonplaceholder.typicode.com/posts?_limit=6&_page=${page}](https://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page})`.
+   - The app fetches todos from `https://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`.
    - Data is stored in a **global state** using Context API.
 
 2. **Skeleton Loader**
-   - While fetching, skeleton placeholders (`animate-pulse`) appear in place of actual todos.
+   - While fetching, skeleton placeholders appear in place of actual todos.
 
 3. **Pagination**
    - Users can navigate between pages with **Previous** and **Next** buttons.
